@@ -8,6 +8,10 @@ This is a Streamlit-based web application for predicting customer churn. The app
 - **Preprocessing**: Uses pre-trained label encoders and scalers to preprocess user input.
 - **Prediction**: Utilizes a pre-trained TensorFlow model to predict customer churn.
 
+## Live Demo
+
+You can access the live demo of the application [here](https://churn-prediction-45caqr3q2wg5qr49xr.streamlit.app/).
+
 ## Requirements
 
 To run this application, you'll need to install the following dependencies:
